@@ -17,7 +17,7 @@ class _SearchWidgetState extends State<SearchWidget> {
       home: const Scaffold(
         body: Text(
           'Salam',
-          style: TextStyle(color: Colors.amber),
+          // style: TextStyle(color: Colors.amber),
         ),
       ),
     );
